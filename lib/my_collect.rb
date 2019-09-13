@@ -8,3 +8,4 @@ while i < array.length do
 end 
 new_collection 
 end
+ my_collect(array) do i.splt 
