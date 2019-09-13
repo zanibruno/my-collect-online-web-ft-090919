@@ -9,3 +9,4 @@ end
 new_collection 
 end
  my_collect(array) do i.split(" ").first
+ end
